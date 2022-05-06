@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace Assignment4Mvc
+namespace Day6MvcApp
 {
     public class MvcApplication : System.Web.HttpApplication
     {
